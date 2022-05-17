@@ -13,6 +13,6 @@ Here's some facts about me:
 - A duck 🐤
 - Codes whatever that could be coded 👾. But usually doing frontend and mobile stuff 📱
 - Usually speaks in JavaScript, TypeScript, Java and Kotlin 🖥
-- Hates OOP 🙅‍♂️
+- Hates OOP 🙅‍♂️ *(but can't get away from it)*
 - Loves CSS ❤️
 - Usually uses Vue, React, Tailwind and React Native ⌨️
