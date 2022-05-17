@@ -10,7 +10,7 @@
 I'm RoastedDuck 🐤, a 22-year old software engineer duck from Indonesia 🇮🇩. Any pronouns are fine with me but I usually go with he/him.
 
 Here's some facts about me:
-- A duck 🐤
+- ~~A duck 🐤~~
 - Codes whatever that could be coded 👾. But usually doing frontend and mobile stuff 📱
 - Usually speaks in JavaScript, TypeScript, Java and Kotlin 🖥
 - Hates OOP 🙅‍♂️ *(but can't get away from it)*
